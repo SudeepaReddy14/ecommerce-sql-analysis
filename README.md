@@ -20,34 +20,34 @@ Analyzed 541,909 e-commerce transactions using SQL Server (SSMS) to identify top
 ![Total Records](total_records.png)
 
 ### 2. Total Revenue
-![Total Revenue](02_total_revenue.png)
+![Total Revenue](total_revenue.png)
 
 ### 3. Top 10 Best Selling Products
-![Top Products](03_top_products.png)
+![Top Products](top_products.png)
 
 ### 4. Top 10 Most Valuable Customers
-![Top Customers](04_top_customers.png)
+![Top Customers](top_customers.png)
 
 ### 5. Revenue by Country
-![Revenue by Country](05_revenue_by_country.png)
+![Revenue by Country](revenue_by_country.png)
 
 ### 6. Monthly Revenue Trend
-![Monthly Trend](06_monthly_trend.png)
+![Monthly Trend](monthly_trend.png)
 
 ### 7. Cancelled Orders Analysis
-![Cancelled Orders](07_cancelled_orders.png)
+![Cancelled Orders](cancelled_orders.png)
 
 ### 8. RFM Analysis (Recency, Frequency, Monetary)
-![RFM Analysis](08_rfm_analysis.png)
+![RFM Analysis](rfm_analysis.png)
 
 ### 9. Customer Segmentation
-![Customer Segments](09_customer_segments.png)
+![Customer Segments](customer_segments.png)
 
 ### 10. Segment Distribution
-![Segment Count](10_segment_count.png)
+![Segment Count](segment_count.png)
 
 ### 11. Average Order Value
-![Average Order Value](11_avg_order_value.png)
+![Average Order Value](avg_order_value.png)
 
 ## SQL Concepts Used
 - Aggregations (SUM, COUNT, AVG, ROUND)
