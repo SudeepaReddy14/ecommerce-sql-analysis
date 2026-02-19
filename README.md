@@ -17,7 +17,7 @@ Analyzed 541,909 e-commerce transactions using SQL Server (SSMS) to identify top
 ## Analysis Results
 
 ### 1. Total Records
-![Total Records](_total_records.png)
+![Total Records](total_records.png)
 
 ### 2. Total Revenue
 ![Total Revenue](02_total_revenue.png)
